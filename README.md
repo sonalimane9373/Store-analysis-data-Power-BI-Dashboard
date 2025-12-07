@@ -1,2 +1,39 @@
-# Store-analysis-data-Power-BI-Dashboard
-This project focuses on analysing store analysis data using Power BI to understand overall business performance .The dashboard  provides insights into total sales, product performance ,category-wise revenue, and monthly sales trends.
+Title- Store-analysis-data-Dashboard-Power-BI
+
+Description-This project focuses on analysing store analysis data using Power BI to understand overall business performance .The dashboard  provides insights into total sales, product performance ,category-wise revenue, and monthly sales trends.
+
+Project objetive-
+Understand store sales trends.
+identify top-preformong products.
+Analyze monthly?weekly performance
+support business decisions with data driven insights.
+
+Tools Used-PowerBI-Dashboard creation
+Excel-Data cleaning and processing
+
+Dashboard Overview-
+The total includes:
+Total sales.
+Monthly sales trend.
+Category-wise sales.
+Top 5products.
+customer insights.
+
+Dashoard Screenshot-
+<img width="1333" height="732" alt="image" src="https://github.com/user-attachments/assets/61694e31-5456-4a90-b05e-f16e28a99abc" />
+
+Key Analysis Performed-
+Monthly and yearly sales comparision.
+Product category performance.
+Profitability insights.
+Customer segmentation.
+
+Insights-
+Sales increased where during festival months.
+Customer purchase frequency improved in Q3.
+Need to focus on low-performing categories.
+
+ How to use-
+ Download the file from the repository
+ Open the .pbix file in power BI
+ Review the insights From the Dashboard

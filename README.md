@@ -1,3 +1,5 @@
+https://github.com/sonalimane9373/Store-analysis-data-Power-BI-Dashboard.git
+
 Title- Store-analysis-data-Dashboard-Power-BI
 
 Description-This project focuses on analysing store analysis data using Power BI to understand overall business performance .The dashboard  provides insights into total sales, product performance ,category-wise revenue, and monthly sales trends.

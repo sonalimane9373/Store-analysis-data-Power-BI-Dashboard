@@ -20,7 +20,7 @@ Top 5products.
 customer insights.
 
 Dashoard Screenshot-
-<img width="1333" height="732" alt="image" src="https://github.com/user-attachments/assets/61694e31-5456-4a90-b05e-f16e28a99abc" />
+
 <img width="1341" height="733" alt="image" src="https://github.com/user-attachments/assets/e7c9c371-eecd-4725-9f12-4bcb5f3a2c8a" />
 
 Key Analysis Performed-
